@@ -1,1 +1,1 @@
-# To-Do-List-App
+Stay organized and productive with this user-friendly to-do list app! Forget the frustration of losing your tasks when you refresh the window, as this app utilizes web server storage to securely save your data. Simply add tasks, check them off as you complete them, and remove any you no longer need. Enjoy the intuitive design and focus on getting things done.
